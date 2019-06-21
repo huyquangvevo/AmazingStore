@@ -1,0 +1,32 @@
+{
+ "detail":[
+            ["Màn hình",	"IPS LCD, 5.5\", Full HD"],
+            ["Hệ điều hành","Android 6.0 (Marshmallow)"],
+            ["Camera sau","13 MP"],
+            ["Camera trước","16 MP và 8 MP"],
+            ["CPU","MT6750T 8 nhân 64-bit"],
+            ["RAM","4 GB"],
+            ["Bộ nhớ trong","64 GB"],
+            ["Thẻ nhớ","MicroSD, hỗ trợ tối đa 128 GB"],
+            ["Thẻ SIM","2 Nano SIM, Hỗ trợ 4G"],
+            ["Dung lượng pin","3200 mAh"],
+            ["Kết nối","2G, 3G, 4G, Wiffi, GPS, Bluetooth, Micro USB"]
+          ],
+  "images":["Phone/OppoF3/Images/oppof3_v1.jpg",
+            "Phone/OppoF3/Images/oppof3_v2.jpg",
+            "Phone/OppoF3/Images/oppof3_v3.jpg",
+            "Phone/OppoF3/Images/oppof3_v4.jpg",
+            "Phone/OppoF3/Images/oppof3_v5.jpg",
+            "Phone/OppoF3/Images/oppof3_v6.jpg",
+            "Phone/OppoF3/Images/oppof3_v7.jpg",
+            "Phone/OppoF3/Images/oppof3_v8.jpg"
+            
+            ],
+  
+  "photos":["Phone/OppoF3/oppof3_v1.jpeg",
+            "Phone/OppoF3/oppof3_v2.jpeg",
+            "Phone/OppoF3/oppof3_v3.jpeg",
+            "Phone/OppoF3/oppof3_v4.jpeg",
+            "Phone/OppoF3/oppof3_v5.jpeg"
+          ]
+}

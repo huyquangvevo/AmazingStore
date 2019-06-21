@@ -1,0 +1,29 @@
+{
+ "detail":[
+            ["Màn hình","Super AMOLED, 5.5\", Full HD "],
+            ["Hệ điều hành","Android 7.0"],
+            ["Camera sau","13 MP"],
+            ["Camera trước","13 MP"],
+            ["CPU","Exynos 7870 8 nhân 64-bit"],
+            ["RAM","3 GB"],
+            ["Bộ nhớ trong","32 GB"],
+            ["Thẻ nhớ","MicroSD, hỗ trợ tối đa 256GB"],
+            ["Thẻ SIM","2 Nano SIM, Hỗ trợ 4G"],
+            ["Dung lượng pin","3600 mAh"],
+            ["Kết nối","2G, 3G, 4G LTE, WiFi a/b/g/n/ac, Bluetooth v4.2, GPRS/EDGE, GPS, GLONASS"]
+          ],
+  "images":["Phone/J7Pro/Images/j7pro_1.jpg",
+           "Phone/J7Pro/Images/j7pro_2.jpg",
+           "Phone/J7Pro/Images/j7pro_3.jpg",
+           "Phone/J7Pro/Images/j7pro_4.jpg",
+           "Phone/J7Pro/Images/j7pro_5.jpg",
+           "Phone/J7Pro/Images/j7pro_6.jpg",
+           "Phone/J7Pro/Images/j7pro_7.jpg"
+            ],
+  
+  "photos":["Phone/J7Pro/j7pro_v1.jpeg",
+            "Phone/J7Pro/j7pro_v2.jpeg",
+            "Phone/J7Pro/j7pro_v3.jpeg",
+            "Phone/J7Pro/j7pro_v4.jpeg",
+            "Phone/J7Pro/j7pro_v5.jpeg"]
+}

@@ -1,0 +1,68 @@
+{
+  "detail": [
+    [
+      "Màn hình",
+      "\tSuper AMOLED, 6.3\", Quad HD (2K)"
+    ],
+    [
+      "Hệ điều hành",
+      "Android 7.1"
+    ],
+    [
+      "Camera sau",
+      "2 camera 12 MP"
+    ],
+    [
+      "Camera trước",
+      "8 MP"
+    ],
+    [
+      "CPU",
+      "Exynos 8895 8 nhân 64-bit"
+    ],
+    [
+      "RAM",
+      "6 GB"
+    ],
+    [
+      "Bộ nhớ trong",
+      "64 GB"
+    ],
+    [
+      "Thẻ nhớ: ",
+      "MicroSD, hỗ trợ tối đa 256 GB"
+    ],
+    [
+      "Thẻ SIM",
+      "2 Nano SIM, Hỗ trợ 4G"
+    ],
+    [
+      "Dung lượng pin",
+      "3200 mAh, có sạc nhanh"
+    ],
+    [
+      "Kết nối",
+      "4G LTE, 3G, Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot, Bluetooth 5.0, GPS, NFC, USB-C 3.1"
+    ]
+  ],
+  "images": [
+    "Phone/Note8/Images/note8_1.jpg",
+    "Phone/Note8/Images/note8_2.jpg",
+    "Phone/Note8/Images/note8_3.jpg",
+    "Phone/Note8/Images/note8_4.jpg",
+    "Phone/Note8/Images/note8_5.jpg",
+    "Phone/Note8/Images/note8_6.jpg",
+    "Phone/Note8/Images/note8_7.jpg",
+    "Phone/Note8/Images/note8_8.jpg",
+    "Phone/Note8/Images/note8_9.jpg",
+    "Phone/Note8/Images/note8_10.jpg",
+    "Phone/Note8/Images/note8_11.jpg"
+  ],
+  "photos": [
+    "Phone/Note8/note8_v1.jpeg",
+    "Phone/Note8/note8_v2.jpeg",
+    "Phone/Note8/note8_v3.jpeg",
+    "Phone/Note8/note8_v4.jpeg",
+    "Phone/Note8/note8_v5.jpeg"
+  ]
+}

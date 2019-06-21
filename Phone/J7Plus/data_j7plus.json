@@ -1,0 +1,30 @@
+{
+ "detail":[
+            ["Màn hình","Super AMOLED, 5.5\", Full HD "],
+            ["Hệ điều hành","Android 7.0"],
+            ["Camera sau","13 MP và 5MP (2 camera)"],
+            ["Camera trước","16 MP"],
+            ["CPU","Mediatek Helio P25 Lite 8 nhân"],
+            ["RAM","4 GB"],
+            ["Bộ nhớ trong","32 GB"],
+            ["Thẻ nhớ","MicroSD, hỗ trợ tối đa 256GB"],
+            ["Thẻ SIM","2 Nano SIM, Hỗ trợ 4G"],
+            ["Dung lượng pin","3000 mAh"],
+            ["Kết nối","4G LTE, Wi-Fi 802.11 b/g/n, Wi-Fi Direct, Wi-Fi hotspot, GPS, Bluetooth v4.2, A2DP, LE"]
+          ],
+  "images":["Phone/J7Plus/Images/j7plus_1.jpg",
+            "Phone/J7Plus/Images/j7plus_2.jpg",
+            "Phone/J7Plus/Images/j7plus_3.jpg",
+            "Phone/J7Plus/Images/j7plus_4.jpg",
+            "Phone/J7Plus/Images/j7plus_5.jpg",
+            "Phone/J7Plus/Images/j7plus_6.jpg",
+            "Phone/J7Plus/Images/j7plus_7.jpg",
+            "Phone/J7Plus/Images/j7plus_8.jpg"
+            ],
+  "photos":["Phone/J7Plus/j7plus_v1.jpeg",
+            "Phone/J7Plus/j7plus_v2.jpeg",
+            "Phone/J7Plus/j7plus_v3.jpeg",
+            "Phone/J7Plus/j7plus_v4.jpeg",
+            "Phone/J7Plus/j7plus_v5.jpeg"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+ "detail":[
+            ["Màn hình","IPS LCD, 5.5\", Full HD"],
+            ["Hệ điều hành","Android 6.0 (Marshmallow)"],
+            ["Camera sau","12 MP và 2 MP (2 camera)"],
+            ["Camera trước","8 MP"],
+            ["CPU","HiSilicon Kirin 655"],
+            ["RAM","3 GB"],
+            ["Bộ nhớ trong","32 GB"],
+			["Thẻ nhớ","MicroHD, Hỗ trợ tối đa 256GB"],
+            ["Thẻ SIM","2 Nano SIM (SIM 2 chung khe thẻ nhớ)"],
+            ["Dung lượng pin","3340 mAh"],
+            ["Kết nối","4G LTE, 3G, Wi-Fi 802.11 b/g/n, Wi-Fi hotspot, DLNA, A-GPS và Glonass, GPRS/EDGE, Bluetooth v4.0, microUSB,..."]
+          ],
+  "images":["Phone/Huawei_GR5_2017/Images/gr5_1.jpg",
+            "Phone/Huawei_GR5_2017/Images/gr5_2.jpg",
+            "Phone/Huawei_GR5_2017/Images/gr5_3.jpg",
+            "Phone/Huawei_GR5_2017/Images/gr5_4.jpg",
+            "Phone/Huawei_GR5_2017/Images/gr5_5.jpg",
+            "Phone/Huawei_GR5_2017/Images/gr5_6.jpg",
+            "Phone/Huawei_GR5_2017/Images/gr5_7.jpg",
+            "Phone/Huawei_GR5_2017/Images/gr5_8.jpg"
+            ],
+  
+  "photos":["Phone/Huawei_GR5_2017/gr5_v1.jpeg",
+            "Phone/Huawei_GR5_2017/gr5_v2.jpeg",
+            "Phone/Huawei_GR5_2017/gr5_v3.jpeg",
+            "Phone/Huawei_GR5_2017/gr5_v4.jpeg",
+            "Phone/Huawei_GR5_2017/gr5_v5.jpeg"
+          ]
+}

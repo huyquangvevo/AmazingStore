@@ -1,0 +1,67 @@
+@charset "utf-8";
+.container { margin-left:5%;
+	 margin-right:5%}
+#top1{ height: 100px; 
+	background-color:#000;
+	background-image: url(../Images/Amazing.jpg);
+	margin-left:0%;
+	margin-right:0%;
+	position: fixed;
+	left:0;
+	right:0;
+	overflow:hidden;
+	}
+#selectType{ height:50px;
+	background-color:#F3C; 
+	position: relative;
+	top: 104px;
+	}
+	
+#banner{ margin-left:0%; 
+	margin-right:0%;
+	height:200px; 
+	background-color:#FC6; 
+	width:60%; 
+	float:left;
+	
+	}
+	
+#newFeed{ margin-left:0%; 
+	margin-right:0%;
+	height:200px; 
+	background-color:#C06; 
+	float:right;
+	width:40%;
+	position:relative;
+	left:5px;
+	
+	}
+
+.status{ 
+	position:relative;
+	top:105px;
+	}
+
+.products{
+	width:400px;
+	height:250px;
+	position:relative;
+	top:120px;
+	}
+.inforSP {
+	position:relative;
+	top:2px
+	width:200px;
+	height:100px;
+	}
+.nameSP{ font-family: "Lucida Sans Typewriter", "Lucida Console", monaco, "Bitstream Vera Sans Mono", monospace;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+	}
+.priceSP{
+	font-size:20px;
+	color:#D50000;
+	}

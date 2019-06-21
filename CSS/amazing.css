@@ -1,0 +1,71 @@
+@charset "utf-8";
+/*div{ margin-left:5%; margin-right:5%;}*/
+.top{height:50px;
+	background-color:#FFF;
+	margin-left:5%;
+	margin-right:5%;
+	}
+#logo{float:left}
+#search{ position:relative; float:left; margin-top:35px; width:400px;}
+input[type=text]{width: 60%; height:40px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 6px;
+    font-size: 16px;
+    background-color: white;
+    background-image:url(../Images/searchicon2.png);
+    background-position: 98% 4px; 
+    background-repeat: no-repeat;
+    padding: 12px 10px 10px 15px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+	}
+input[type=text]:focus{ width:100%}
+
+.iconTop { float:left;}
+.gio { float:left; margin:6px; color: #FFF;}
+
+#group1{ float:right;
+	width:300px;
+	height:40%;	
+	}
+
+#group2 { float:right;
+	position:relative;
+	top: 10px;
+	}
+.buttonTop {
+	float:right;
+	position:relative;
+	top: 0px;
+	background-color:#FF3131;
+	border: 2px solid;
+	border-radius: 6px;
+    padding: 3px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 0px 0px 0px 20px;
+    cursor: pointer;
+}
+
+.buttonGroup {
+	float:right;
+	position:relative;
+	top: 0px;
+	background-color:#000;
+	color:#FC0;
+	border: 2px solid #000;
+    padding: 3px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 0px 0px 0px 0px;
+    cursor: pointer;
+}
+
+
+
+

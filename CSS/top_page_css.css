@@ -1,0 +1,168 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	
+	font-family: Verdana,sans-serif;margin:0;
+	}
+
+a{
+	text-decoration:none;
+	color:FFF; 
+	text-decoration: none;
+	}
+a:hover { color:#b48608; }
+
+
+#container_top{
+	margin-left:5%;
+	margin-right:5%;
+	background-color:#191919;
+	height:60px;
+	}
+	
+#container_toppage{
+	}
+input[type=text] {
+    width: 100%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 6px;
+    font-size: 16px;
+    background-color: white;
+    background-image:url(../Images/searchicon2.png);
+    background-position: 96% 6px; 
+    background-repeat: no-repeat;
+    padding: 8px 15px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+
+input[type=text]:focus {
+    width: 100%;
+}
+
+#logo{ 
+	float:left;
+	height:100%;
+	}
+
+#search {
+	width: 300px;
+	float:left;
+	padding:6px;
+	position:absolute;
+	left:250px;
+	top:5px;
+	}
+#cart{
+	padding:5px 15px;
+	right:100px;
+	border:none;
+	position:absolute;
+	left:550px;
+	}
+
+.top-select{
+	 
+	float:right;
+	position:relative;
+	text-align:center;
+	padding:21px 5px;
+	font-size:12px;
+	color:#FFF;
+	}
+#instruction{position:absolute;
+	left:1100px;}
+#login{
+	position:absolute;
+	left:1000px;}
+#contact_title {
+	position:absolute;
+	left:1200px;}
+#select{
+	background-color:#F5F5F5;
+	height:35px;}	
+	
+#select_type {
+	margin-left:5%;
+	height:100%;
+	width: 840px;
+	
+	}
+	
+.typeTopSp{
+	
+	color:#000;
+	float:left;
+	padding:7px 40px;
+	max-width:300px;
+	text-align:center;
+	font-size:18px;
+	border:none;
+	z-index:1;
+	}
+
+#sales{ background-color:#ED1C24;
+	}
+	
+
+
+#myInput {
+  background-image: url('/css/searchicon.png');
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  width: 460px;
+  font-size: 16px;
+  padding: 10px 20px 10px 20px;
+  border: 1px solid #ddd;
+  margin-bottom: 10px;
+}
+
+#myTable {
+  border-collapse: collapse;
+  width: 100%;
+  border: 1px solid #ddd;
+  font-size: 18px;
+  z-index: 10;
+  display:none;
+}
+
+#myTable th, #myTable td {
+  text-align: left;
+  padding: 12px;
+}
+
+#myTable tr {
+  border-bottom: 1px solid #ddd;
+  background-color: 	#F8F8FF;
+
+}
+
+#myTable tr.header, #myTable tr:hover {
+  background-color: #f1f1f1;
+}
+
+
+.image_pro_s {
+	float:left;
+	text-align:left;
+	padding:2px;
+	}
+	
+.price_pro_s {
+	float:left;
+	text-align:left;
+	padding:15px 5px 15px 15px;
+	font-size:16px;
+	}
+	
+.name_pro_s {
+	float:left;
+	text-align:left;
+	padding:15px;
+	width:250px;
+	font-size:18px;
+	}
+
+

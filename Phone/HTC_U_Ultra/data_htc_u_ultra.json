@@ -1,0 +1,29 @@
+{
+ "detail":[
+            ["Màn hình",	"Super LCD, Chính: 5.7\", phụ: 2.05\", Quad HD(2K)"],
+            ["Hệ điều hành","Android 7.0"],
+            ["Camera sau","12 MP"],
+            ["Camera trước","16 MP"],
+            ["CPU","Qualcomm Snapdragon 821 4 nhân 64-bit"],
+            ["RAM","4 GB"],
+            ["Bộ nhớ trong","64 GB"],
+            ["Thẻ nhớ","MicroSD, hỗ trợ tối đa 2 TB"],
+            ["Thẻ SIM","2 Nano SIM, Hỗ trợ 4G"],
+            ["Dung lượng pin","3200 mAh, có sạc nhanh"],
+            ["Kết nối","4G LTE, 3G, Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot, Bluetooth 5.0, GPS, NFC, USB-C 3.1"]
+          ],
+  "images":["Phone/HTC_U_Ultra/Images/htc_u_ultra_1.jpg",
+            "Phone/HTC_U_Ultra/Images/htc_u_ultra_2.jpg",
+            "Phone/HTC_U_Ultra/Images/htc_u_ultra_3.jpg",
+            "Phone/HTC_U_Ultra/Images/htc_u_ultra_4.jpg",
+            "Phone/HTC_U_Ultra/Images/htc_u_ultra_5.jpg",
+            "Phone/HTC_U_Ultra/Images/htc_u_ultra_6.jpg",
+            "Phone/HTC_U_Ultra/Images/htc_u_ultra_7.jpg",
+            "Phone/HTC_U_Ultra/Images/htc_u_ultra_8.jpg"
+            ],
+  
+  "photos":["Phone/HTC_U_Ultra/htc_u_ultra_v1.jpg",
+            "Phone/HTC_U_Ultra/htc_u_ultra_v2.jpg",
+            "Phone/HTC_U_Ultra/htc_u_ultra_v3.jpg"
+          ]
+}

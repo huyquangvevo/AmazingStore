@@ -1,0 +1,68 @@
+{
+  "detail": [
+    [
+      "Màn hình",
+      "Super AMOLED, 5.8\", Quad HD (2K)"
+    ],
+    [
+      "Hệ điều hành",
+      "Android 7.0"
+    ],
+    [
+      "Camera sau",
+      "12 MP"
+    ],
+    [
+      "Camera trước",
+      "8 MP"
+    ],
+    [
+      "CPU",
+      "\tExynos 8895 8 nhân 64-bit"
+    ],
+    [
+      "RAM",
+      "4 GB"
+    ],
+    [
+      "Bộ nhớ trong",
+      "64 GB"
+    ],
+    [
+      "Thẻ nhớ: ",
+      "MicroSD, hỗ trợ tối đa 256 GB"
+    ],
+    [
+      "Thẻ SIM",
+      "2 SIM Nano (SIM 2 chung khe thẻ nhớ), Hỗ trợ 4G"
+    ],
+    [
+      "Dung lượng pin",
+      "3000 mAh, có sạc nhanh"
+    ],
+    [
+      "Kết nối",
+      "2G, 3G, 4G, WiFi, Bluetooth v4.0, GPRS/EDGE, NFC, Jack tai nghe 3.5mm"
+    ]
+  ],
+  "images": [
+    "Phone/S8/Images/s8_1.jpg",
+    "Phone/S8/Images/s8_2.jpg",
+    "Phone/S8/Images/s8_3.jpg",
+    "Phone/S8/Images/s8_4.jpg",
+    "Phone/S8/Images/s8_5.gif",
+    "Phone/S8/Images/s8_6.jpg",
+    "Phone/S8/Images/s8_7.jpg",
+    "Phone/S8/Images/s8_8.jpg",
+    "Phone/S8/Images/s8_9.jpg",
+    "Phone/S8/Images/s8_10.jpg",
+    "Phone/S8/Images/s8_11.jpg"
+  ],
+  "photos": [
+    "Phone/S8/s8_v1.jpeg",
+    "Phone/S8/s8_v2.jpeg",
+    "Phone/S8/s8_v3.jpeg",
+    "Phone/S8/s8_v4.jpeg",
+    "Phone/S8/s8_v5.jpeg"
+  ]
+}
